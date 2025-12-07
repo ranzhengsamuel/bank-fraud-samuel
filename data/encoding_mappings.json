@@ -1,0 +1,28 @@
+{
+  "payment_type": {
+    "AA": 0,
+    "AB": 1,
+    "AC": 2,
+    "AD": 3,
+    "AE": 4
+  },
+  "employment_status": {
+    "Employed_A": 0,
+    "Employed_B": 1,
+    "Other": 2
+  },
+  "housing_status": {
+    "Other": 0,
+    "Owned_or_Rented": 1
+  },
+  "source": {
+    "INTERNET": 0,
+    "OTHER": 1
+  },
+  "device_os": {
+    "linux": 0,
+    "macos": 1,
+    "other": 2,
+    "windows": 3
+  }
+}

@@ -65,3 +65,6 @@ Thumbs.db
 # Environment variables
 .env
 .env.local
+
+# Specific File Names
+preprocess_copy.ipynb

@@ -1,3 +1,5 @@
+# Final Paper can be found at: Statistics Group Paper.pdf
+
 # Bank Fraud Detection
 
 Machine learning project for detecting fraudulent bank transactions.
